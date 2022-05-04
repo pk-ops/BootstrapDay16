@@ -1,0 +1,17 @@
+body{
+    background-color:grey ;
+}
+.fa{
+    color: lightseagreen;
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 60px 10px;
+    margin: 30px 8px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+.box{
+    padding: 60px 10px;
+}
